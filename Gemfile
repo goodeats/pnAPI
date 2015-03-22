@@ -1,0 +1,15 @@
+source 'https://rubygems.org'
+ruby '2.2.0'
+
+gem 'rails', '4.2.0'
+gem 'rails-api'
+gem 'pg'
+gem 'newrelic_rpm'
+gem 'rack-cors'
+gem 'spring', :group => :development
+gem 'sqlite3'
+gem 'rails_12factor'
+gem 'active_model_serializers'
+gem 'nokogiri'
+gem 'bcrypt', '~> 3.1.7'
+gem 'aws-sdk'
